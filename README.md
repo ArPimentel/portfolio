@@ -1,4 +1,18 @@
-# App
+# Portfolio Arturo
+
+Maquette [disponible sur dribbble](https://dribbble.com/shots/20753864-kawsar-design)
+
+## Seance 1
+
+TODO:
+
+- Dans le fichier bio.components.css, faire en sorte que la carte sois identique à l'exemple de la maquette
+- Dans le fichier button.component.css, faire en sorte que la carte sois identique à l'exemple de la maquette
+- Dans le fichier card.component.ts, définir les Inputs nécessaires pour afficher ce qu'il faut dans les cards
+- Dans le fichier card.component.css, définir le style css pour que la carte ressemble à la maquette.
+- Dans le fichier app.component.html, ajouter trois autre cartes pour coller à la maquette. Les images SVG peuvent être trouvés sur le site [www.svgrepo.com](www.svgrepo.com)
+
+## Information
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.1.
 

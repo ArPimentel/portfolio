@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, Input } from '@angular/core';
 
 @Component({
   selector: 'app-bio',
@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./bio.component.css']
 })
 export class BioComponent {
-
+  @Input() title!: string;
+  @Input() subtitle!: string;
+  @Input() textButton!: string;
 }

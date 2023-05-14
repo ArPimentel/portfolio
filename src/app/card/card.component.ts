@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./card.component.css']
 })
 export class CardComponent {
-
+  // En utilisant les exemples bio.component.ts et button.component.ts
+  // Faire en sorte que ce composant prennent trois "Inputs" (appelés props en vue)
+  // Pour que le template recoivent les données qu'il faut
 }
