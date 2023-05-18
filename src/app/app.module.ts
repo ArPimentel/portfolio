@@ -8,6 +8,7 @@ import { ButtonComponent } from './button/button.component';
 import { CardComponent } from './card/card.component';
 import { FooterComponent } from './footer/footer.component';
 import { BioComponent } from './bio/bio.component';
+import { AnimationComponent } from './animation/animation.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { BioComponent } from './bio/bio.component';
     ButtonComponent,
     CardComponent,
     FooterComponent,
-    BioComponent
+    BioComponent,
+    AnimationComponent
   ],
   imports: [
     BrowserModule,

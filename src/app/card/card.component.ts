@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, Input } from '@angular/core';
 
 @Component({
   selector: 'app-card',
@@ -9,4 +9,8 @@ export class CardComponent {
   // En utilisant les exemples bio.component.ts et button.component.ts
   // Faire en sorte que ce composant prennent trois "Inputs" (appelés props en vue)
   // Pour que le template recoivent les données qu'il faut
+  @Input() src!:string;
+  @Input() alt:string = "";
+  @Input() title!:string;
+  @Input() description:string = "";
 }
