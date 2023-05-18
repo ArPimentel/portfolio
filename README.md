@@ -6,14 +6,16 @@ Maquette [disponible sur dribbble](https://dribbble.com/shots/20753864-kawsar-de
 
 TODO:
 
-- Dans le fichier card.component.ts, définir les Inputs nécessaires pour afficher ce qu'il faut dans les cards
+- [x] Dans le fichier card.component.ts, définir les Inputs nécessaires pour afficher ce qu'il faut dans les cards
 - Dans le fichier app.component.html, ajouter trois autre cartes pour coller à la maquette. Les images SVG peuvent être trouvés sur le site [www.svgrepo.com](www.svgrepo.com)
 
 ## Seance 2
 
+- Lire https://angular.io/guide/lifecycle-hooks
 - Dans le fichier bio.components.css, faire en sorte que la carte sois identique à l'exemple de la maquette
 - Dans le fichier button.component.css, faire en sorte que la carte sois identique à l'exemple de la maquette
 - Dans le fichier card.component.css, définir le style css pour que la carte ressemble à la maquette.
+- Créer un composant carte_2 qui affiche une image de ton projets, et le titre et le lien. Utiliser https://angular.io/api/common/NgFor
 
 ## Information
 
