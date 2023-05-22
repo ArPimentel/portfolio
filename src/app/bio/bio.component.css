@@ -2,3 +2,28 @@
   dans le bio.component.html
   Le design est le suivant: https://dribbble.com/shots/20753864-kawsar-design
 */
+.card{
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}
+.picture{
+  width: 20%;
+}
+
+.card-text{
+
+}
+
+.card-litle{
+
+}
+
+.card-h1{
+
+}
+
+.card-button-container{
+
+}
